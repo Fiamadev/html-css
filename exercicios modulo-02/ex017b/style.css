@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(133, 133, 241);
+    font:14pt Arial;
+}
+p{
+    color:rgb(27, 27, 102)
+}
+#titulo{
+    text-align: center;
+}
+.primeiroparagrafo{
+    text-align: left;
+   
+}
+.segundoparagrafo{
+    text-align: right;
+}
+.terceiroparagrafo{
+    text-align: center;
+}
+.quartoparagrafo{
+    text-align: justify;
+}
